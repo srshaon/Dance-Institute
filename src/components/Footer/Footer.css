@@ -1,0 +1,66 @@
+.footer-section {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-column-gap: 10px;
+  background-color: rgba(176, 224, 230, 0.808);
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.footer-second-part-container {
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+}
+
+/* .footer-parts {
+  border: 1px solid;
+} */
+
+/* {
+  border: 1px solid rgba(245, 164, 59, 0.658);
+  border-radius: 10px;
+} */
+.footer-first-parts,
+.footer-second-parts,
+.footer-third-parts {
+  border: 2px solid cornsilk;
+  border-radius: 10px;
+}
+.mid-part {
+  text-align: center;
+  font-size: 15px;
+}
+
+.subscribe-part {
+  font-size: 20px;
+}
+.last-part {
+  text-align: center;
+}
+.email-box {
+  width: 85%;
+  padding-right: 10px;
+  border-radius: 5px;
+}
+.submit-btn {
+  padding: 0;
+  margin: 0;
+  width: 85%;
+  height: 27px;
+  border: 2px solid rosybrown;
+  border-radius: 5px;
+}
+.text-abc {
+  font-size: 15px;
+}
+/* .address-part {
+  text-align: center;
+} */
+.socialicons a {
+  margin-right: 8px;
+}
+.socialicons a > img {
+  width: 50px;
+  height: 60px;
+}

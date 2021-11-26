@@ -1,0 +1,47 @@
+.nav-container {
+  background-color: #27496d;
+  padding: 0 10px;
+}
+.link-container {
+  margin-left: 20px;
+  font-size: 20px;
+  margin-top: 25px;
+}
+.link-container a {
+  text-decoration: none;
+  margin: 5px;
+  padding: 5px;
+  color: whitesmoke;
+}
+
+.link-container a:hover {
+  background-color: #aaaaaa;
+  border-radius: 10px;
+}
+
+.brand-container {
+  color: whitesmoke;
+
+  width: 60%;
+}
+
+.header-image-container {
+  padding-left: 80px;
+}
+
+.header-image-container img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.header-text-container {
+  padding-top: 20px;
+  padding-left: 30px;
+}
+
+.gradient-text {
+  background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}

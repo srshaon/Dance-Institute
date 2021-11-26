@@ -1,0 +1,49 @@
+.popular-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+}
+
+.home-page-text {
+  background-color: aliceblue;
+  text-align: center;
+  color: #001e6c;
+}
+
+.box-container {
+  margin: 50px 0;
+
+  display: flex;
+  padding-left: 10px;
+  height: 420px;
+  justify-content: stretch;
+  background-color: rgba(255, 245, 238, 0.438);
+  border-radius: 15px;
+}
+
+#box-1,
+#box-2 {
+  height: 100%;
+}
+
+#box-2 {
+  flex-grow: 1;
+  font-size: 1.6em;
+}
+.box {
+  width: 250px;
+  height: 200px;
+}
+
+.box img {
+  height: 345px;
+}
+#box-1 {
+  word-wrap: break-word;
+  font-size: 2em;
+}
+
+.carousels-img {
+  width: 100%;
+  height: 500px;
+}

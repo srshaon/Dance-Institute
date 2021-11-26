@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Bollywood",
+      "trainer": "Remo D'Souza",
+      "img": "https://i.ibb.co/257Q9Yq/Bollywood.jpg",
+      "fee": 1000,
+      "duration": "3 months"
+    },
+    {
+      "id": 2,
+      "name": "Hip-Hop",
+      "trainer": "Bosco–Caesar",
+      "img": "https://i.ibb.co/g36mJY1/hiphop.jpg",
+      "fee": 1500,
+      "duration": "4 months"
+    },
+    {
+      "id": 3,
+      "name": "Contemporary",
+      "trainer": "Terence Lewis",
+      "img": "https://i.ibb.co/H46Jmc2/Contemporary.jpg",
+      "fee": 1500,
+      "duration": "6 months"
+    },
+    {
+      "id": 4,
+      "name": "Kathak",
+      "trainer": "Kumar Sharma",
+      "img": "https://i.ibb.co/zP406wv/kathak.jpg",
+      "fee": 3000,
+      "duration": "10 months"
+    },
+    {
+      "id": 5,
+      "name": "Bharatanatyam",
+      "trainer": "Geeta Kapoor",
+      "img": "https://i.ibb.co/ck62ZBQ/Bharatanatyam.jpg",
+      "fee": 2000,
+      "duration": "10 months"
+    },
+    {
+      "id": 6,
+      "name": "Finger-Tutting",
+      "trainer": "Dytto",
+      "img": "https://i.ibb.co/pn3rgn9/finger-tutting.jpg",
+      "fee": 1200,
+      "duration": "4 months"
+    },
+    {
+      "id": 7,
+      "name": "Ballet",
+      "trainer": "Shiamak Davar",
+      "img": "https://i.ibb.co/55SfP05/Ballet.jpg",
+      "fee": 1000,
+      "duration": "4 months"
+    },
+    {
+      "id": 8,
+      "name": "Bhangra",
+      "trainer": "Amardeep Singh Natt",
+      "img": "https://i.ibb.co/vjgvdPQ/Bhangra.jpg",
+      "fee": 1000,
+      "duration": "3 months"
+    },
+    {
+      "id": 9,
+      "name": "Lyrical",
+      "trainer": "Raghav Juyal",
+      "img": "https://i.ibb.co/W6bFTmL/lyrical.jpg",
+      "fee": 2000,
+      "duration": "6 months"
+    }
+  ]

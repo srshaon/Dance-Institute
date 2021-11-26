@@ -1,0 +1,11 @@
+.section-text {
+  background-color: #ffecda63;
+  text-align: justify;
+  font-size: 17px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 2px floralwhite;
+}
+
+.heading-text {
+  text-decoration: underline;
+}

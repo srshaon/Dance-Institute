@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Sushant Khatri",
+      "insta": "https://www.instagram.com/sushantkhatri148/",
+      "img": "https://i.ibb.co/xMwptmm/susanth.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Piyush Bhagat",
+      "insta": "https://www.instagram.com/piyush_bhagat/?hl=en",
+      "img": "https://i.ibb.co/346Ztn2/piyush.jpg"
+    },
+    {
+      "id": 3,
+      "name": "V Company",
+      "insta": "https://www.instagram.com/vcompany_india/?hl=en",
+      "img": "https://i.ibb.co/ByN5jrS/vcompany.jpg"
+    },
+    {
+      "id": 4,
+      "name": "V Unbeatable",
+      "insta": "https://www.instagram.com/v.unbeatable_official_india/?hl=en",
+      "img": "https://i.ibb.co/S69JJp5/vunbeatable.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Aryan Patra",
+      "insta": "https://www.instagram.com/aryan_patra/?hl=en",
+      "img": "https://i.ibb.co/t2p8c9J/Aryan.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Vartika Jha",
+      "insta": "https://www.instagram.com/jhavartika/?hl=en",
+      "img": "https://i.ibb.co/HgW2jLQ/vartika.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Wild Ripperz Crew",
+      "insta": "https://www.instagram.com/thewildripperzofficial/?hl=en",
+      "img": "https://i.ibb.co/ZTQV4FK/wild.jpg"
+    },
+    {
+      "id": 8,
+      "name": "B.A.N.D.I.T.S",
+      "insta": "https://www.instagram.com/bandits_syncmasters/?hl=en",
+      "img": "https://i.ibb.co/bBDN6RB/bandits.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Bir Radha Sherpa",
+      "insta": "https://www.instagram.com/bir_radha_sherpa1/?hl=en",
+      "img": "https://i.ibb.co/dBvCtKF/bir-radha-sherpa.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Amardeep Singh Natt",
+      "insta": "https://www.instagram.com/zindarobot/?hl=en",
+      "img": "https://i.ibb.co/0YSTdQF/amar.jpg"
+    }
+    
+  ]
